@@ -138,6 +138,9 @@ dubbele codes had ik vaak erin staan. zoals text-container. foutjes waardoor de 
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   (week 5, want alles was door de war dus nu proberen)
+  kleurenfilter test. je kan gelukkig wel goed de tekst en afbeeldingen lezen. Ik wilde een screenshot maken maar je zag geen foto daarvan. dus dit waren de instelling die ik probeerde. Het voorlezen ging niet goed. Hij las wel 1 keer goed de titel voor maar dan ook de html code uitgebreid. 
+
+ <img src="readme-images/toegankelijkheid2.png" width="375px" alt="homepagina1">
 
   <img src="" width="375px" alt="voorlezen">
 
@@ -201,16 +204,19 @@ code deel van 5 december:
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
+ 
 
   ### Dit ging goed/Heb ik geleerd: 
   
 
  1. <img src="readme-images/button.png" width="375px" alt="gele button van + filters">
   <img src="readme-images/gelebuttoncode.png" width="375px" alt="stuk code <a>">
-  Geleerd: Ik gebruikte eerste gewoon een <button> maar het is een <a> omdat het ergens toeverwijst.
- 2. 
+  Geleerd: Ik gebruikte eerste gewoon een button maar het is een  a  omdat het ergens toeverwijst.
+ 2. Om in 1 css te werken, ik heb altijd dat in 2 gedaan. Maar je kan alles specifiek aanspreken met id of een class en dan is het handig om in 1 te werken. 
+ 3. flexboxen gingen goed, had daar ook al eerder meegewerkt. 
+ 4. geleerd dat ik makkelijkere namen moet maken .hamnav bijv dat is een lastige. vooral met mijn dyslextie. Daarom gingen veel dingen verkeerd. 
+ 5. dat niet op 1 pagina van h1 tot h6 gaat. Maar de informatie gaat allemaal over dopper.
+ 6. Ik zag dit eerst als onmogelijk, maar ben voor mijn niveau erg ver gekomen dus daar ben ik al trots op. Als je stap voor stap te werk gaat, moet het lukken.
 
 
   ### Dit was lastig/Is niet gelukt:
@@ -230,6 +236,9 @@ Ik wist niet goed hoe ik dit moest aanpakken. dus ik heb het weggelaten.
 
 5.  <img src="readme-images/menu1.png" width="375px" alt="menu1">
 krijg het niet voor elkaar om de tekst in het midden te krijgen. Bij producten en als je dan op het hamburger menu klikt staat die wel in het midden?
+
+6.  <img src="readme-images/geenwitruimte.png" width="375px" alt="banner foto">
+was al blij dat alles goed stond en krijg het even niet voor elkaar om dit goed te krijgen.
 
 </details>
 
