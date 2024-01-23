@@ -242,6 +242,35 @@ was al blij dat alles goed stond en krijg het even niet voor elkaar om dit goed 
 
 </details>
 
+
+## Eindgesprek mondeling 
+
+- PX veranderen naar Em
+- Juiste koppen gebruiken h1 eerst 
+- voiceover toegankelijkheid maken
+- geen div in je html gebruiken 
+- readme je proces laten zien (gedaan vanaf mondeling, weet niet meer wat ik had gedaan)zie hieronder:
+- nieuwe pagina maken: dopperfles item
+- link ipv van < button > gebruiken
+
+
+herkansing aantekeningen hieronder: 
+
+<img src="./readme-images/1.png" width="375px" alt="1">
+<img src="./readme-images/2.png" width="375px" alt="2">
+<img src="./readme-images/3.png" width="375px" alt="3">
+<img src="./readme-images/4.png" width="375px" alt="4">
+<img src="./readme-images/5.png" width="375px" alt="5">
+<img src="./readme-images/6.png" width="375px" alt="6">
+<img src="./readme-images/7.png" width="375px" alt="7">
+<img src="./readme-images/8.png" width="375px" alt="8">
+<img src="./readme-images/9.png" width="375px" alt="9">
+<img src="./readme-images/10.png" width="375px" alt="10">
+<img src="./readme-images/11.png" width="375px" alt="11">
+<img src="./readme-images/12.png" width="375px" alt="12">
+<img src="./readme-images/13.png" width="375px" alt="13">
+
+
 ## Bronnenlijst
 
 <details open>
@@ -253,17 +282,25 @@ was al blij dat alles goed stond en krijg het even niet voor elkaar om dit goed 
 
   ( ChatGpT )
 
-  1.  html aria-label="Verkooppunten en contactinformatie"> <!-- extra context voor mensen met een beperking-->
-  2. left: -22%;
-  3. /* Mediaquery voor kleinere schermen */
+  1.  html aria-label="Verkooppunten en contactinformatie"> <!-- extra context voor mensen met een beperking-->ook van esther gehoord en dus gebruikt.
+  2. left: -22%; (uiteindelijk veranderd naar em)
+  3. /* Mediaquery voor kleinere schermen */ 
 @media (max-width: 600px) {
     .hamburger-label {
         display: block;
     }
+    vraag : hoe stel je in dat die blijft op mobiele formaat?
   4.  z-index: 2; /* Geef het hamburgermenu een z-index van 2, dezelfde als de header */
+
+  vraag: hoe krijg ik het op de afbeelding (header)?
+
   5. .logo-text {
     /* verbergen van de h1 */}
-  6. javascript deel
+  6. javascript deel 
+
+  vraag: hoe laat ik de img groter maken als je muis erover heen gaat?
+
+
 
 
 
